@@ -5,3 +5,4 @@ const sorted = (array) => {
 };
 
 console.log(sorted([1, 5, 9, 8, 4, 6, 7, 3, 2, 0]));
+console.log(sorted([-1, -25, 1, 5, 9, 8, 4, 6, 7, 3, 2, 0]));
